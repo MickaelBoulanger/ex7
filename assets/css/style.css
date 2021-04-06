@@ -1,0 +1,53 @@
+/* idendité */
+
+#id{
+    background-color: rgb(50, 116, 169);
+    
+    
+}
+
+.titleid{
+    background-color: rgb(50, 116, 169);
+}
+
+/* adresse de livraison */
+
+#adresse{
+    background-color: rgb(154, 18, 179);
+    
+    border-collapse: collapse;
+    
+
+}
+
+.titleal{
+    background-color: rgb(154, 18, 179);
+
+}
+
+/* informations de reglement */
+
+#ir{
+    background-color: rgb(219, 39, 90);
+    
+    border-collapse: collapse;
+}
+
+.titleir{
+    background-color: rgb(219, 39, 90);
+
+}
+
+fieldset{
+    margin-bottom: 2px;
+}
+
+
+
+
+
+
+    
+
+
+
